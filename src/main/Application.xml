@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean name="dog" class="pers.yangs.business.ioc.entity.Dog">
+        <property name="xxx" value="123"></property>
+    </bean>
+</beans>
